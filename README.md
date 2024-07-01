@@ -1,3 +1,16 @@
+
+
+ 
+<img width="1723" alt="Screenshot 2024-07-01 at 11 05 03 AM" src="https://github.com/sipher69/NextJs-spline-hero/assets/43222112/97058059-fc19-4f4a-a187-3ce336a9dacc">
+
+<br/>
+<br/>
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
